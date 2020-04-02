@@ -1,7 +1,13 @@
+Temporary fork waiting for this issue to be fixed:
+https://github.com/apache/cordova-plugin-camera/pull/527
+
 ---
+
 title: Camera
 description: Take pictures with the device camera.
+
 ---
+
 <!---
 # license: Licensed to the Apache Software Foundation (ASF) under one
 #         or more contributor license agreements.  See the NOTICE file
